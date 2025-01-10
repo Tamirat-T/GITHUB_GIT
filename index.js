@@ -1,2 +1,2 @@
 console.log('indx.js')
-console.log('vesrsion1')
+console.log('vesrsion2')
